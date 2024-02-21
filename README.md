@@ -7,7 +7,7 @@ An extreme real-world construction image dataset for PPE detection, labeled with
 ## Download
 Relevant data can be accessed:
 - at the [TeraBox]().
-- or, at the [Baidu Netdisk]() using the code: ****
+- or, at the [Baidu Netdisk](https://pan.baidu.com/s/1LcDkWN_Rs4RKpbfJxISwag) using the code: **mulk**
 
 
 ## Citation
