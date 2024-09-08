@@ -21,4 +21,20 @@ If you find the dataset useful, consider citing it using:
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+
+@inproceedings{ding_personal_2024,
+      address = {Corvallis, Oregon},
+      title = {Personal protective equipment detection in extreme construction conditions},
+      isbn = {978-0-7844-8524-8},
+      url = {https://ascelibrary.org/doi/10.1061/9780784485248.081},
+      doi = {10.1061/9780784485248.081},
+      language = {en},
+      urldate = {2024-04-17},
+      booktitle = {Computing in {Civil} {Engineering} 2023},
+      publisher = {American Society of Civil Engineers},
+      author = {Ding, Yuexiong and Luo, Xiaowei},
+      month = jan,
+      year = {2024},
+      pages = {672--679},
+}
 ```
