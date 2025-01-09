@@ -13,15 +13,6 @@ Relevant data can be accessed:
 ## Citation
 If you find the dataset useful, consider citing it using:
 ```
-@misc{ding2023personal,
-      title={Personal Protective Equipment Detection in Extreme Construction Conditions}, 
-      author={Yuexiong Ding and Xiaowei Luo},
-      year={2023},
-      eprint={2307.13654},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-
 @inproceedings{ding_personal_2024,
       address = {Corvallis, Oregon},
       title = {Personal protective equipment detection in extreme construction conditions},
